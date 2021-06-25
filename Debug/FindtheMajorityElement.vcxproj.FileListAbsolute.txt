@@ -1,0 +1,2 @@
+D:\Learning_Data\算法分析与设计（双语）\FindtheMajorityElement\Debug\FindtheMajorityElement.exe
+D:\Learning_Data\算法分析与设计（双语）\FindtheMajorityElement\Debug\FindtheMajorityElement.pdb
